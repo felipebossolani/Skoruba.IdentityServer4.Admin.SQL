@@ -33,3 +33,9 @@ Skoruba.IdentityServer4.Admin
 Skoruba.IdentityServer4.Admin.Api
 Skoruba.IdentityServer4.STS.Identity
 ```
+
+Os dados do admin são
+```
+user = admin
+pass = Pa$$word123
+```
